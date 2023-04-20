@@ -1,5 +1,6 @@
 # churn_celullar
 Accenture case study (celullar customer churn prediction)
+
 Project aims to predict customer churn
 
 Customer_ID - The id of the customer

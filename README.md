@@ -1,4 +1,4 @@
-# Customer churn prediction (celullar)
+# Customer churn prediction (Accenture celullar)
 Accenture case study (celullar customer churn prediction)
 
   Project aims to predict customer churn

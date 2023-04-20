@@ -30,4 +30,4 @@ Paperless_billing - Indicates whether the customer has a paperless billing with 
 
 Payment_method - The payment method used by the customer
 
-Churn Indicates - whether the customer churned
+Churn - Indicates whether the customer churned
